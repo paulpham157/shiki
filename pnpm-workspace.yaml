@@ -18,7 +18,7 @@ catalogs:
     rollup-plugin-dts: ^6.2.3
     rollup-plugin-esbuild: ^6.2.1
     unbuild: ^3.6.1
-    vite: ^7.1.4
+    vite: ^7.1.5
     vite-tsconfig-paths: ^5.1.4
   cli:
     '@antfu/eslint-config': ^5.2.1
